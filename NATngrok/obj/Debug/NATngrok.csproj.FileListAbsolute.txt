@@ -1,0 +1,10 @@
+E:\VisualStudioProjects\NATngrok\NATngrok\obj\Debug\NATngrok.csprojAssemblyReference.cache
+E:\VisualStudioProjects\NATngrok\NATngrok\obj\Debug\NATngrok.Form1.resources
+E:\VisualStudioProjects\NATngrok\NATngrok\obj\Debug\NATngrok.Properties.Resources.resources
+E:\VisualStudioProjects\NATngrok\NATngrok\obj\Debug\NATngrok.csproj.GenerateResource.cache
+E:\VisualStudioProjects\NATngrok\NATngrok\obj\Debug\NATngrok.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\NATngrok\NATngrok\bin\Debug\NATngrok.exe.config
+E:\VisualStudioProjects\NATngrok\NATngrok\bin\Debug\NATngrok.exe
+E:\VisualStudioProjects\NATngrok\NATngrok\bin\Debug\NATngrok.pdb
+E:\VisualStudioProjects\NATngrok\NATngrok\obj\Debug\NATngrok.exe
+E:\VisualStudioProjects\NATngrok\NATngrok\obj\Debug\NATngrok.pdb
